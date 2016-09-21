@@ -1,0 +1,37 @@
+body {
+	min-height: 2000px;
+	padding-top: 20px;
+	margin: 20px;
+}
+
+div#header {
+	margin-top: 50px;
+}
+
+.text-error {
+	color: #B94A48; !important
+}
+
+.wordcount_limit {
+	color: #FF0000 !important;
+}
+
+.wordcount_limit #StoryStoryText-word-count {
+	color: #FF0000 !important;
+}
+
+.min_height {
+	min-height: 600px;
+}
+
+.error-message {
+	color: #ff0000;
+}
+
+#genre-other {
+	display: none;
+}
+
+.dropdown-backdrop {
+    position: static;
+}
